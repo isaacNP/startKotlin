@@ -1,0 +1,13 @@
+1. Loja de Camisetas
+
+Seu desafio aqui é construir um conjunto de objetos para suportar uma loja de camisetas.
+Decida se cada objeto deve ser uma classe ou uma data class e siga em frente e implemente
+todos eles.
+
+- Camiseta: Representa um estilo de camisa que você pode comprar. Cada camiseta tem um tamanho,
+cor, preço e uma imagem opcional na frente.
+- Usuario: Um usuário registrado do aplicativo da loja de camisetas. Um usuário tem um nome,
+email e um Carrinho (veja abaixo).
+- Endereco: Representa um endereço de envio, contendo o nome, rua, cidade e código postal.
+- Carrinho: Contém um pedido atual, que é composto por uma lista de Camiseta que o usuário
+quer comprar, bem como um método para calcular o custo total. Além disso, há um endereço que representa onde o pedido será enviado.

@@ -1,0 +1,14 @@
+1. Pet Shop
+
+Crie uma coleção de interfaces para tarefas em um pet shop com cães, gatos, peixes e pássaros.
+
+As tarefas da loja de animais podem ser divididas nestas tarefas:
+
+- Todos os animais de estimação precisam ser alimentados.
+- Animais de estimação que podem voar precisam ser enjaulados.
+- Animais de estimação que podem nadar precisam ser colocados em um tanque.
+- Animais de estimação que andam precisam se exercitar.
+- Tanques e gaiolas precisam ocasionalmente ser limpos.
+
+Note que o nome das interfaces em um portugues correto podem não existir, mas é apenas
+para você entender o conceito.

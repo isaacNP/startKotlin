@@ -1,0 +1,15 @@
+1. Lista de Filmes
+
+Imagine que você está escrevendo um aplicativo de visualização de filmes em Kotlin. Os
+usuários podem criar listas de filmes e compartilhar essas listas com outros usuários.
+
+Crie uma classe de Usuario e uma classe ListaFilmes que mantém listas para os usuários.
+
+- Usuario: Tem um método addList() que adiciona a lista dada a um mapa mutável de objetos
+ListaFilme (usando o nome como uma chave), e list():ListaFilme? que retornará o ListaFilme 
+para o nome fornecido.
+- ListaFilme: Contém um nome e uma lista mutável de títulos de filmes. Um método de impressão
+imprimirá todos os filmes da lista de filmes.
+- Crie usuários Jane e John e faça com que eles criem e compartilhem listas. Peça que Jane
+e John modifiquem a mesma lista e chamem print de ambos os usuários. Todas as mudanças são
+refletidas?
